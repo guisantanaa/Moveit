@@ -38,7 +38,8 @@
 <p>Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas: Git, Node.js, Além disto é bom ter um editor para trabalhar com o código como o Visual Studio Code</p>
 
 <p>Clone este repositorio.</p>
-<a href="https://github.com/guisantanaa/Moveit">https://github.com/guisantanaa/Moveit</a>
+
+<p>git clone https://github.com/guisantanaa/Moveit</p>
 
 <p>Instale as depedências executando o comando "yarn" em seu terminal na pasta do projeto<p>
 <p>Digite o comando yarn dev para executar sua aplicação. Em seu navegador digite localhost:3000 para abrir sua aplicação</p> 
